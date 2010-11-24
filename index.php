@@ -1,6 +1,6 @@
 <?php
 
 echo 'main controller';
-echo 'feature 2';
+echo 'feature 4';
 echo 'feature from test';
 ?>
