@@ -1,4 +1,4 @@
 <?php
     echo 'main controller';
-    echo 'comming soon';
+    echo 'coming soon';
 ?>
