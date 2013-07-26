@@ -1,4 +1,4 @@
 <?php
-    echo 'development branch';
+    echo 'master branch';
     echo 'coming soon';
 ?>
